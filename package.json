@@ -6,6 +6,7 @@
   "author": "杨勇 <yangyong9410@aliyun.com>",
   "license": "MIT",
   "dependencies": {
+    "cz-conventional-changelog": "^2.1.0",
     "husky": "^1.3.1",
     "validate-commit-msg": "^2.14.0"
   },
